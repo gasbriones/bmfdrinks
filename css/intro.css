@@ -1,0 +1,241 @@
+/*CSS RESET*/
+@font-face {
+  font-family: 'noticia-regular';
+  src: url("../fonts/NoticiaText-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'noticia-bold';
+  src: url("../fonts/NoticiaText-Bold.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html{
+	background-image: url(../images/bg-intro.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-origin: content-box 
+}
+
+
+html,body{
+	margin: 0;
+	padding: 0;
+	font-family: 'noticia-regular', Arial, sans-serif;
+	font-size:100%;
+	color: #ffffff; 
+}
+
+a{
+	color: #A0A0A0;
+}
+
+
+#alert{
+	position: absolute;
+	right: 0;
+	text-transform: uppercase;
+	display: table-row;
+	padding: 0.2em 3em;
+	top: -100%;
+	background:url(../images/pix-red.png);	
+	border-radius:0 0 5px 5px;
+	border: solid 1px red;
+	border-top: none;
+	font-weight: bold;
+	
+}
+
+#alert span{
+	line-height: 48px;
+	height: 48px;
+	display: inline-block;
+	float: right;
+	margin-left: 1em;	
+}
+
+#site{
+	max-width: 940px;
+	margin: 0 auto;
+	position: relative;
+
+}
+
+#logo{
+	width: 13.8125em;
+}
+
+#slogan{
+	display: block;
+	height: 3.125em;
+	line-height:3.125em;
+	font-size: 1em;
+	text-transform: uppercase;
+	text-align: center;
+	background:url(../images/pix-gray.png);	 
+}
+
+#nav ul{
+    display: block;
+    left: 37%;
+    list-style: none outside none;
+    margin: 0 auto;
+    padding: 0;
+    position: absolute;
+    text-indent: -999em;
+    top: 60%;
+    width: 390px;
+}
+
+#nav ul li{
+	float: left;
+	margin-right: 10px;	
+}
+
+#nav ul li a{
+	display: block;
+	height: 266px;
+	width: 120px;	
+}
+
+.pal{
+	background: url("../images/nav-palermo.png");
+}
+.pal:hover{
+	background: url("../images/nav-palermo-over.png");
+}
+.tienda{
+	background: url("../images/nav-tienda.png");
+}
+.tienda:hover{
+	background: url("../images/nav-tienda-over.png");
+}
+.bel{
+	background: url("../images/nav-belgrano.png");
+}
+.bel:hover{
+	background: url("../images/nav-belgrano-over.png");
+}
+
+.menor{
+	text-align: center;
+	color: #949393;
+}
+
+footer {
+	width: 100%;
+	height: 75px;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	background: #000;
+	font: 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+footer .in {
+	width: 940px;
+	margin: 0 auto;
+	position: relative;
+	z-index: 1;
+}
+
+footer .signin {
+	position: absolute;
+	left: 0;
+	top: 30px;
+}
+
+footer .signin a {
+	color: #575656;
+	margin-right: 4px;
+	text-decoration: none;
+	padding: 0 4px;
+}
+
+footer .signin a:hover {
+	background: #161616;
+	color: #fff;
+}
+
+footer .privacy {
+	color: #a6a5a5;
+	position: absolute;
+	right: 93px;
+	top: 20px;
+}
+
+footer .info {
+	color: #5d5d5d;
+	position: absolute;
+	right: 86px;
+	top: 40px;
+}
+
+footer .soc-ico {
+	position: absolute;
+	right: 0;
+	top: 22px;
+	list-style: none;
+}
+
+
+footer .soc-ico li {
+	float: left;
+	margin-left: 3px;
+}
+
+.yo{
+	margin-top: 10px;
+	position: absolute;
+}
+
+#telefonos{
+    background: #FC2500;
+    color: #fff;
+    margin-top: 65px;
+    padding: 15px;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: noticia-bold;
+    position: absolute;
+    top: 9em;
+    width: 191px;
+}
+
+#telefonos .numeros{
+    font-size: 1.2em;
+    line-height: 30px;
+}
+
+
+#telefonos:AFTER{
+    background: url("../images/telefono.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    content: "";
+    height: 46px;
+    left: 24px;
+    position: absolute;
+    top: -46px;
+    width: 182px;
+}
+
+
+#telefonos:BEFORE{
+    background: #DE1C00;
+    bottom:-23px;
+    content: "";
+    height: 23px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+.clear{ clear:both;}
+#primero{width:600px; height:400px;}
+#segundo{width:600px; height:400px;}
+
+.tab{
+    overflow: auto;
+}

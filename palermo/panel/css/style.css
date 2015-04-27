@@ -1,0 +1,20 @@
+.control-btn-delete{
+	position: absolute;
+	margin-left: 202px;
+	margin-top: 5px;
+	cursor: pointer;
+	
+}
+.control-btn-edit{
+	position: absolute;
+	margin-left: 183px;
+	margin-top: 5px;
+	cursor: pointer;
+	
+}
+
+
+.ayuda{
+	display: block;
+	font-size: 10px;
+}
