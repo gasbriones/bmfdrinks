@@ -1,61 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="603dd838-67be-41c8-9831-a04565619369" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/connection" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/img" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/images/loaderImg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/login" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/promociones" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/abmListProductos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/abmProductosActions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/promociones/abmPromoList.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/jsFrameworks/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/connection/connection.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/promociones/deletePromo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/deleteTipoProducto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/promociones/editPromo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/promociones/editPromoForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/promociones/getImage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/getImageProducto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/getListProductos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/getTipoProductoById.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/belgrano/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/js/jquery-1.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/js/jquery.form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/login/loginAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/login/logoutAction.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/newProducto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/promociones/newPromo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/newTipoForm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/saveProducto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/phpScripts/productos/saveTipo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/palermo/panel/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/palermo/panel" afterPath="$PROJECT_DIR$/palermo/panel" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/belgrano/panel/phpScripts/connection/connection.php" afterPath="$PROJECT_DIR$/belgrano/panel/phpScripts/connection/connection.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tienda/index.html" afterPath="$PROJECT_DIR$/tienda/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/palermo/index.php" afterPath="$PROJECT_DIR$/palermo/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" readonly="true" id="603dd838-67be-41c8-9831-a04565619369" name="Default" comment="" />
     <ignored path="bmfdrinks.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,72 +24,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/belgrano/index.php">
+        <entry file="file://$PROJECT_DIR$/belgrano/panel/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="124" column="24" selection-start="5416" selection-end="5416" vertical-scroll-proportion="-30.625" vertical-offset="1125" max-vertical-offset="3510">
-              <folding>
-                <marker date="1430163655227" expanded="true" signature="86:132" placeholder="SELECT * FRO..categoria_producto..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/palermo/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="228" column="0" selection-start="12303" selection-end="12303" vertical-scroll-proportion="-35.666668" vertical-offset="2564" max-vertical-offset="3510">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#li#4;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#2;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#3;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#label#0;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#label#0;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#label#1;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#label#1;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#label#2;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#label#2;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1430164401535" expanded="true" signature="83:129" placeholder="SELECT * FRO..categoria_producto..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/palermo/panel/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="9" selection-start="1463" selection-end="1463" vertical-scroll-proportion="-5.2352943" vertical-offset="288" max-vertical-offset="2820">
+            <state line="24" column="7" selection-start="1024" selection-end="1024" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="2820">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/belgrano/panel/index.php">
+        <entry file="file://$PROJECT_DIR$/palermo/panel/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.142857" vertical-offset="1485" max-vertical-offset="2820">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tienda/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="44" selection-end="111" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1635">
+            <state line="12" column="51" selection-start="451" selection-end="451" vertical-scroll-proportion="0.2601156" vertical-offset="0" max-vertical-offset="2820">
               <folding />
             </state>
           </provider>
@@ -159,8 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/tienda/css/style.css" />
-        <option value="$PROJECT_DIR$/tienda/lalal.html" />
         <option value="$PROJECT_DIR$/tienda/lista-otras-bebidas.html" />
         <option value="$PROJECT_DIR$/palermo/js/init.js" />
         <option value="$PROJECT_DIR$/belgrano/js/init.js" />
@@ -206,18 +96,20 @@
         <option value="$PROJECT_DIR$/belgrano/panel/phpScripts/login/loginAction.php" />
         <option value="$PROJECT_DIR$/palermo/panel/phpScripts/connection/connection.php" />
         <option value="$PROJECT_DIR$/belgrano/panel/phpScripts/connection/connection.php" />
-        <option value="$PROJECT_DIR$/belgrano/index.php" />
         <option value="$PROJECT_DIR$/tienda/index.html" />
+        <option value="$PROJECT_DIR$/belgrano/index.php" />
         <option value="$PROJECT_DIR$/palermo/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/belgrano/panel/index.php" />
         <option value="$PROJECT_DIR$/palermo/panel/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="width" value="1602" />
-    <option name="height" value="877" />
+    <option name="x" value="1600" />
+    <option name="width" value="1600" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -260,7 +152,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bmf-drinks" />
+              <option name="myItemId" value="bmfdrinks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -270,21 +162,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bmf-drinks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tienda" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="bmfdrinks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bmf-drinks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -298,7 +176,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bmf-drinks" />
+              <option name="myItemId" value="bmfdrinks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -316,7 +194,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bmf-drinks" />
+              <option name="myItemId" value="bmfdrinks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -330,25 +208,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bmf-drinks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="belgrano" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="panel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="bmfdrinks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bmf-drinks" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -357,10 +217,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="panel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpScripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,11 +228,12 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="File.Encoding" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../speicher" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -426,24 +283,6 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
     <supportedVersion>125</supportedVersion>
   </component>
-  <component name="SvnFileUrlMappingImpl">
-    <option name="myMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-    <option name="myMoreRealMappingRoots">
-      <list>
-        <SvnCopyRootSimple>
-          <option name="myVcsRoot" value="$PROJECT_DIR$" />
-          <option name="myCopyRoot" value="$PROJECT_DIR$" />
-        </SvnCopyRootSimple>
-      </list>
-    </option>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="603dd838-67be-41c8-9831-a04565619369" name="Default" comment="" />
@@ -453,16 +292,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1602" height="877" extended-state="6" />
+    <frame x="1600" y="0" width="1600" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32760897" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32741934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2618742" sideWeight="0.68012923" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2647815" sideWeight="0.68012923" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -472,6 +310,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31968296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32760897" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -496,113 +335,74 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/login/loginAction.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="2" selection-start="555" selection-end="555" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="450">
-          <folding>
-            <marker date="1430158400879" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/login/logoutAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/deletePromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="6" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/editPromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="544" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="555">
-          <folding />
-        </state>
+        <state line="15" column="52" selection-start="544" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="555" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/editPromoForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="7" column="2" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/getImage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="9" selection-start="6" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="1" column="9" selection-start="6" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/newPromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="48" selection-start="471" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="14" column="48" selection-start="471" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/productos/saveTipo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="14" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="33" column="14" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/login/loginAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="47" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="450">
-          <folding>
-            <marker date="1430158400879" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
-          </folding>
-        </state>
+        <state line="15" column="47" selection-start="399" selection-end="399" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/login/logoutAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/deletePromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="6" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/editPromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="544" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="555">
-          <folding />
-        </state>
+        <state line="15" column="52" selection-start="544" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="555" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/editPromoForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="7" column="2" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/getImage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="9" selection-start="6" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="1" column="9" selection-start="6" selection-end="15" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/newPromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="48" selection-start="471" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="14" column="48" selection-start="471" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/palermo/js/init.js">
@@ -702,150 +502,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/deletePromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.02124646" vertical-offset="0" max-vertical-offset="706">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.02124646" vertical-offset="0" max-vertical-offset="706" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/editPromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="52" selection-start="495" selection-end="495" vertical-scroll-proportion="0.3186969" vertical-offset="0" max-vertical-offset="706">
-          <folding />
-        </state>
+        <state line="15" column="52" selection-start="495" selection-end="495" vertical-scroll-proportion="0.3186969" vertical-offset="0" max-vertical-offset="706" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/editPromoForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="234" selection-end="234" vertical-scroll-proportion="0.065155804" vertical-offset="59" max-vertical-offset="765">
-          <folding />
-        </state>
+        <state line="7" column="2" selection-start="234" selection-end="234" vertical-scroll-proportion="0.065155804" vertical-offset="59" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/getImage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="9" selection-start="15" selection-end="15" vertical-scroll-proportion="0.02124646" vertical-offset="0" max-vertical-offset="706">
-          <folding />
-        </state>
+        <state line="1" column="9" selection-start="15" selection-end="15" vertical-scroll-proportion="0.02124646" vertical-offset="0" max-vertical-offset="706" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/promociones/newPromo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="48" selection-start="422" selection-end="422" vertical-scroll-proportion="0.29745042" vertical-offset="0" max-vertical-offset="706">
-          <folding />
-        </state>
+        <state line="14" column="48" selection-start="422" selection-end="422" vertical-scroll-proportion="0.29745042" vertical-offset="0" max-vertical-offset="706" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/productos/saveTipo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="14" selection-start="1171" selection-end="1171" vertical-scroll-proportion="0.0" vertical-offset="205" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="33" column="14" selection-start="1171" selection-end="1171" vertical-scroll-proportion="0.0" vertical-offset="205" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/login/logoutAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="466">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="466" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/login/loginAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="2" selection-start="494" selection-end="494" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="450">
-          <folding>
-            <marker date="1430158400879" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
-          </folding>
-        </state>
+        <state line="24" column="2" selection-start="494" selection-end="494" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/phpScripts/connection/connection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="2" selection-start="137" selection-end="137" vertical-scroll-proportion="0.065789476" vertical-offset="0" max-vertical-offset="684">
-          <folding />
-        </state>
+        <state line="3" column="2" selection-start="137" selection-end="137" vertical-scroll-proportion="0.065789476" vertical-offset="0" max-vertical-offset="684" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/palermo/panel/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="1" selection-start="250" selection-end="250" vertical-scroll-proportion="0.40254238" vertical-offset="0" max-vertical-offset="708">
-          <folding />
-        </state>
+        <state line="19" column="1" selection-start="250" selection-end="250" vertical-scroll-proportion="0.40254238" vertical-offset="0" max-vertical-offset="708" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/palermo/panel/phpScripts/connection/connection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="137" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="135">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="137" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="135" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/palermo/panel/phpScripts/login/loginAction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="491" selection-end="491" vertical-scroll-proportion="0.48866856" vertical-offset="0" max-vertical-offset="706">
-          <folding>
-            <marker date="1430158400000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..users..." />
-          </folding>
-        </state>
+        <state line="23" column="0" selection-start="491" selection-end="491" vertical-scroll-proportion="0.48866856" vertical-offset="0" max-vertical-offset="706" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tienda/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="111" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="1635">
+        <state line="3" column="4" selection-start="44" selection-end="111" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1635">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/belgrano/index.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="124" column="24" selection-start="5416" selection-end="5416" vertical-scroll-proportion="-30.625" vertical-offset="1125" max-vertical-offset="3510">
-          <folding>
-            <marker date="1430163655227" expanded="true" signature="86:132" placeholder="SELECT * FRO..categoria_producto..." />
-          </folding>
+        <state line="25" column="0" selection-start="1815" selection-end="1815" vertical-scroll-proportion="0.5419075" vertical-offset="0" max-vertical-offset="1140">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/palermo/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="228" column="0" selection-start="12303" selection-end="12303" vertical-scroll-proportion="-35.666668" vertical-offset="2564" max-vertical-offset="3510">
+        <state line="10" column="26" selection-start="235" selection-end="257" vertical-scroll-proportion="0.216763" vertical-offset="0" max-vertical-offset="3510">
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#3;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#3;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#4;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#li#4;n#ul#0;n#nav#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#label#0;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#label#0;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#label#1;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#label#1;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#label#2;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#label#2;n#fieldset#0;n#form#0;n#div#1;n#li#4;n#ul#0;n#article#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1430164401535" expanded="true" signature="83:129" placeholder="SELECT * FRO..categoria_producto..." />
+            <marker date="1441209870434" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..categoria_producto..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/palermo/panel/index.php">
+    <entry file="file://$PROJECT_DIR$/belgrano/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="9" selection-start="1463" selection-end="1463" vertical-scroll-proportion="-5.2352943" vertical-offset="288" max-vertical-offset="2820">
-          <folding />
+        <state line="10" column="13" selection-start="245" selection-end="267" vertical-scroll-proportion="0.216763" vertical-offset="0" max-vertical-offset="3510">
+          <folding>
+            <marker date="1441209805398" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..categoria_producto..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/belgrano/panel/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.142857" vertical-offset="1485" max-vertical-offset="2820">
+        <state line="24" column="7" selection-start="1024" selection-end="1024" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="2820">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/palermo/panel/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="51" selection-start="451" selection-end="451" vertical-scroll-proportion="0.2601156" vertical-offset="0" max-vertical-offset="2820">
           <folding />
         </state>
       </provider>

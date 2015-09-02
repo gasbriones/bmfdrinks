@@ -8,7 +8,7 @@
 	info@gastudio.com.ar
 	Buenos Aires - Argentina
 *************************************** -->
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta charset="UTF-8">
 <link rel="shortcut icon" href="favicon.ico">
 <title>BMF DRINK'S PANEL DE CONTROL Palermo</title>
 <!-- JavaScript -->

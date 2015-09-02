@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
 <meta name="description"
 	content="Bebidas a domicilio: cervezas, vinos, whisky, vodka, champagne, gin, tequila, ron, licores, fernet, aperitivos, energizantes, picadas, vinos espumantes, gaseosas, aguardiente, Delivery de Bebidas, deliverydebebidas, bebidas, delivery" />
 <meta name="keywords"

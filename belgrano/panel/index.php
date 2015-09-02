@@ -8,7 +8,7 @@
 	info@gastudio.com.ar
 	Buenos Aires - Argentina
 *************************************** -->
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta charset="UTF-8">
 <link rel="shortcut icon" href="favicon.ico">
 <title>BMF DRINK'S PANEL DE CONTROL BELGRANO</title>
 <!-- JavaScript -->
@@ -37,7 +37,7 @@
 	
 	<?php
 		if (!isset($_SESSION['s_username'])) {?>
-		<div class="alert alert-info">Acceso administración</div>
+		<div class="alert alert-info">Acceso administraciï¿½n</div>
 		<div class="well">
 			<?php 
 				if (isset($_SESSION["loginError"])){?>
@@ -53,7 +53,7 @@
 					</div>
 				</div>
 				<div class="control-group">
-					<label class="control-label" >Contraseña:</label>
+					<label class="control-label" >Contraseï¿½a:</label>
 					<div class="controls">
 						<div class="input-append">
 							<input type="password" name="password" id="promo-descripcion" required />		
@@ -78,24 +78,24 @@
 	</ul>
 	<div class="tab-content">
 		<div class="tab-pane active" id="promos">
-			<div class="alert alert-info">Aquí­ podras crear nuevas promociones!!</div>
+			<div class="alert alert-info">Aquï¿½ podras crear nuevas promociones!!</div>
 			<div class="well">
 				<div id="alertContainer"></div>		
 				<form action="phpScripts/promociones/newPromo.php" enctype="multipart/form-data" id="formPromos" class="form-horizontal">
 					<div class="control-group">
-						<label class="control-label">Imágen</label>
+						<label class="control-label">Imï¿½gen</label>
 						<div class="controls">
 							<div class="input-append">
 							   <input id="imagen" type="file" style="display:none"  name="img">
 							   <input id="photoCover" class="input-large" type="text">
 							   <span class="btn" onclick="$('input[id=imagen]').click();">Examinar</span>					   				   
 							</div>
-							<span class="ayuda">Solo se permiten imágenes tipo JPEG.</span>					
+							<span class="ayuda">Solo se permiten imï¿½genes tipo JPEG.</span>					
 						</div>						 
 					</div>
 					
 					<div class="control-group">
-						<label class="control-label" >Descripción:</label>
+						<label class="control-label" >Descripciï¿½n:</label>
 						<div class="controls">
 							<div class="input-append">
 								<input type="text" name="descripcion" id="promo-descripcion">		
@@ -121,21 +121,21 @@
 			</div>
 		</div>
 		<div class="tab-pane" id="abmPromo">
-			<div class="alert alert-info">Aquí­ podras editar / borrar promociones!!</div>	
+			<div class="alert alert-info">Aquï¿½ podras editar / borrar promociones!!</div>	
 			<div class="well">
 				<div id="alertContainerBorrar"></div>				
 				<div id="imgTumb"></div>				
 			</div>		
 		</div>
 		<div class="tab-pane" id="abmProducto">
-			<div class="alert alert-info">Aquí­ podras dar de alta productos / editar y borrar tipos de productos!!</div>	
+			<div class="alert alert-info">Aquï¿½ podras dar de alta productos / editar y borrar tipos de productos!!</div>	
 			<div class="well">
 				<div id="abmProductoContainer"></div>
 				
 			</div>		
 		</div>
 		<div class="tab-pane" id="abmListaProducto">
-			<div class="alert alert-info">Aquí­ podras editar y borrar productos!!</div>	
+			<div class="alert alert-info">Aquï¿½ podras editar y borrar productos!!</div>	
 			<div class="well">
 				<div id="abmListProductoContainer"></div>
 				<div id="listaDeProductos"></div>					
@@ -145,8 +145,8 @@
 		<!-- Modal -->
 		<div id="editPromocion" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">Cerrar—</button>
-				<h3 id="myModalLabel">Editar promoción</h3>
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">Cerrarï¿½</button>
+				<h3 id="myModalLabel">Editar promociï¿½n</h3>
 			</div>
 			<div class="modal-body" id="modal-body-edit">
 				
@@ -161,7 +161,7 @@
 		<!-- Modal -->
 		<div id="nuevoTipoModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">Cerrar—</button>
+				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">Cerrarï¿½</button>
 				<h3 id="myModalLabel">Nuevo Tipo</h3>
 			</div>
 			<div class="modal-body" id="modal-body-tipo">
